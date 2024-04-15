@@ -47,23 +47,6 @@ FOR YOU <3
 
 ---
 
-### Usage:
+### Hope it can help all you guys, for save your time
 
-Once the tool is running, it will capture screenshots of your screen at regular intervals. You can adjust the interval and other settings in the main.py file as needed.
 
----
-
-### Note:
-
-- This tool requires Python 3.10 and the specified libraries to be installed on your system.
-- Make sure to adjust any settings or configurations within the main.py file before running the tool.
-
----
-
-### Support:
-
-For any questions or assistance, please contact [Your Email].
-
----
-
-### Enjoy Capturing Your Screen!
